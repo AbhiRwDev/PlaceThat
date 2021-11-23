@@ -21,7 +21,7 @@ public class gamemanager : MonoBehaviour
         if(gamestate==finalstate)
         {
            
-            Invoke("win", 3);
+            Invoke("win", 0);
         }
     }
     public void win()
