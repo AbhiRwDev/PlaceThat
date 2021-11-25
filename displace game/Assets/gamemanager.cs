@@ -6,12 +6,14 @@ public class gamemanager : MonoBehaviour
 {
     public int gamestate,finalstate;
     public GameObject winpanel;
-
+    public GameObject confetties;
     // Start is called before the first frame update
     void Start()
     {
+        confetties = GameObject.FindGameObjectWithTag("confetti");
         winpanel = GameObject.FindGameObjectWithTag("winpanel");
         GameObject.FindGameObjectWithTag("winpanel").SetActive(false);
+        GameObject.FindGameObjectWithTag("confetti").SetActive(false);
         gamestate = 0;
     }
 
@@ -27,6 +29,6 @@ public class gamemanager : MonoBehaviour
     public void win()
     {
         winpanel.SetActive(true);
-        
+        confetties.SetActive(true);
     }
 }

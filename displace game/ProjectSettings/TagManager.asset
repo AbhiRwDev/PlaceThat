@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - winpanel
+  - confetti
   layers:
   - Default
   - TransparentFX

@@ -427,7 +427,7 @@ PrefabInstance:
     - target: {fileID: 5316573047090673492, guid: 8b99c585dcbb77a4bb7a7a53d1da2415, type: 3}
       propertyPath: m_fontAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 7dc1f4f060fd3d14991cd87772048683, type: 2}
+      objectReference: {fileID: 11400000, guid: 42d9a459028902b4d824102ddbe57bc0, type: 2}
     - target: {fileID: 5316573047090673492, guid: 8b99c585dcbb77a4bb7a7a53d1da2415, type: 3}
       propertyPath: m_fontSizeBase
       value: 70
@@ -435,7 +435,7 @@ PrefabInstance:
     - target: {fileID: 5316573047090673492, guid: 8b99c585dcbb77a4bb7a7a53d1da2415, type: 3}
       propertyPath: m_sharedMaterial
       value: 
-      objectReference: {fileID: -7287580528267341640, guid: 7dc1f4f060fd3d14991cd87772048683, type: 2}
+      objectReference: {fileID: -1430708000445617926, guid: 42d9a459028902b4d824102ddbe57bc0, type: 2}
     - target: {fileID: 5316573047090673493, guid: 8b99c585dcbb77a4bb7a7a53d1da2415, type: 3}
       propertyPath: texts.Array.data[0]
       value: PLACE THE HAIR
@@ -717,6 +717,63 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1277281915
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2235469620766159543, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_Name
+      value: confetties
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.2458954
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.0599976
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235469620766159544, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 968e3f80a1d5aca4a8ba68605c47643d, type: 3}
 --- !u!1001 &1951041168
 PrefabInstance:
   m_ObjectHideFlags: 0
