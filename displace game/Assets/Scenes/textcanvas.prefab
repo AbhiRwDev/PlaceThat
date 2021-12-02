@@ -112,8 +112,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000013351, y: 724.77}
-  m_SizeDelta: {x: 846.054, y: 136.719}
+  m_AnchoredPosition: {x: -0.001, y: 781.638}
+  m_SizeDelta: {x: 950.877, y: 187.107}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5316573047090673495
 CanvasRenderer:
@@ -225,9 +225,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texts:
-  - PUT THE GAARLAND
-  - LIGHT THE FIRE
-  - PUT THE STAR
+  - PUT TIKA ON FOREHEAD
+  - TIE THE RAKHI
+  - GIVE LADDU
   - LEVEL COMPLETE
 --- !u!1 &5316573048061668395
 GameObject:
@@ -364,7 +364,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 854.984}
+  m_AnchoredPosition: {x: 0, y: 897.94}
   m_SizeDelta: {x: 590.235, y: 123.711}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5316573048765449247
@@ -482,4 +482,6 @@ MonoBehaviour:
   - LEVEL 3
   - LEVEL 4
   - LEVEL 5
+  - LEVEL 6
+  - LEVEL 7
   one: 0

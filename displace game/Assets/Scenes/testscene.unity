@@ -578,6 +578,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5316573047090673493, guid: 8b99c585dcbb77a4bb7a7a53d1da2415, type: 3}
+      propertyPath: texts.Array.data[0]
+      value: MAKE THEM WEAR GARLAND
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316573047090673493, guid: 8b99c585dcbb77a4bb7a7a53d1da2415, type: 3}
+      propertyPath: texts.Array.data[1]
+      value: LIGHT THE FIRE
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316573047090673493, guid: 8b99c585dcbb77a4bb7a7a53d1da2415, type: 3}
+      propertyPath: texts.Array.data[2]
+      value: PLACE THE STAR
+      objectReference: {fileID: 0}
     - target: {fileID: 5316573048061668391, guid: 8b99c585dcbb77a4bb7a7a53d1da2415, type: 3}
       propertyPath: m_Pivot.x
       value: 0

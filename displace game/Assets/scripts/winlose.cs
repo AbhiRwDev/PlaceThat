@@ -17,7 +17,7 @@ public class winlose : MonoBehaviour
     }
     public void next()
     {
-        if (SceneManager.GetActiveScene().buildIndex == 3)
+        if (SceneManager.GetActiveScene().buildIndex == 10)
         {
             SceneManager.LoadScene(0);
         }
