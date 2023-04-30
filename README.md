@@ -1,5 +1,4 @@
-# displacegame
-
+# PlaceThat
 A 2D Game where you place the right object in right place in the level
 a lot of confetties on winning 
 All files in the project 
